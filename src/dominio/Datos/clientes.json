@@ -1,0 +1,165 @@
+{
+  "numClientes" : 32,
+  "clientes" : {
+    "22" : {
+      "id" : 22,
+      "telefono" : "672 654 579",
+      "nombre" : "Juan Antonio Bautista Hernandez"
+    },
+    "23" : {
+      "id" : 23,
+      "telefono" : "664 573 693",
+      "nombre" : "Anahi Sandoval Lopez"
+    },
+    "24" : {
+      "id" : 24,
+      "telefono" : "643 576 632",
+      "nombre" : "Karen Contreras Fernandez"
+    },
+    "25" : {
+      "id" : 25,
+      "telefono" : "675 275 572",
+      "nombre" : "Stephan Murray Waller"
+    },
+    "26" : {
+      "id" : 26,
+      "telefono" : "645 677 346",
+      "nombre" : "Liliana Cruz Estrada"
+    },
+    "27" : {
+      "id" : 27,
+      "telefono" : "646 713 689",
+      "nombre" : "Jeanette Gentry Sutton"
+    },
+    "28" : {
+      "id" : 28,
+      "telefono" : "657 572 563",
+      "nombre" : "Oscar Vidal Reyes"
+    },
+    "29" : {
+      "id" : 29,
+      "telefono" : "673 683 163",
+      "nombre" : "Carlos Cardenas Sanchez"
+    },
+    "30" : {
+      "id" : 30,
+      "telefono" : "693 645 637",
+      "nombre" : "Ana Zarate Garcia"
+    },
+    "31" : {
+      "id" : 31,
+      "telefono" : "657 936 425",
+      "nombre" : "German Lopez Sanchez"
+    },
+    "10" : {
+      "id" : 10,
+      "telefono" : "675 668 363",
+      "nombre" : "Javier Molina Cano"
+    },
+    "11" : {
+      "id" : 11,
+      "telefono" : "683 562 573",
+      "nombre" : "Herman Correa Ramirez"
+    },
+    "12" : {
+      "id" : 12,
+      "telefono" : "675 231 977",
+      "nombre" : "Jaime Lopez Tobon"
+    },
+    "13" : {
+      "id" : 13,
+      "telefono" : "636 472 582",
+      "nombre" : "Bernardo Posada Vera"
+    },
+    "14" : {
+      "id" : 14,
+      "telefono" : "628 698 274",
+      "nombre" : "Hector Manuel Pineda"
+    },
+    "15" : {
+      "id" : 15,
+      "telefono" : "673 562 582",
+      "nombre" : "Luis Alfonso Escobar Trujillo"
+    },
+    "16" : {
+      "id" : 16,
+      "telefono" : "637 682 966",
+      "nombre" : "Daniel Miranda Matthews"
+    },
+    "17" : {
+      "id" : 17,
+      "telefono" : "672 563 682",
+      "nombre" : "Eva Navamuel Nixon"
+    },
+    "18" : {
+      "id" : 18,
+      "telefono" : "657 462 572",
+      "nombre" : "Rosa Maria Camacho Rey"
+    },
+    "19" : {
+      "id" : 19,
+      "telefono" : "776 264 692",
+      "nombre" : "Laura Palomares Agudo"
+    },
+    "0" : {
+      "id" : 0,
+      "telefono" : "624 673 263",
+      "nombre" : "Juan Garcia Aguirre"
+    },
+    "1" : {
+      "id" : 1,
+      "telefono" : "667 562 688",
+      "nombre" : "Alberto Diaz Ruiz"
+    },
+    "2" : {
+      "id" : 2,
+      "telefono" : "624 562 664",
+      "nombre" : "Marta Garcia Braojos"
+    },
+    "3" : {
+      "id" : 3,
+      "telefono" : "686 724 673",
+      "nombre" : "Sandra Lopez Serrano"
+    },
+    "4" : {
+      "id" : 4,
+      "telefono" : "678 332 683",
+      "nombre" : "Noemi Cuenca Benitez"
+    },
+    "5" : {
+      "id" : 5,
+      "telefono" : "673 699 263",
+      "nombre" : "Salvador Juarez Cuenca"
+    },
+    "6" : {
+      "id" : 6,
+      "telefono" : "698 462 556",
+      "nombre" : "Alma Ortega Sanchez"
+    },
+    "7" : {
+      "id" : 7,
+      "telefono" : "774 572 566",
+      "nombre" : "Jerry Grant Mcgowan"
+    },
+    "8" : {
+      "id" : 8,
+      "telefono" : "648 196 238",
+      "nombre" : "Lucas Barroso Ruiz"
+    },
+    "9" : {
+      "id" : 9,
+      "telefono" : "647 683 783",
+      "nombre" : "Esther Lopez Aguirre"
+    },
+    "20" : {
+      "id" : 20,
+      "telefono" : "682 673 788",
+      "nombre" : "Kitra Christensen Palmer"
+    },
+    "21" : {
+      "id" : 21,
+      "telefono" : "683 662 445",
+      "nombre" : "Diana Montgomery Davidson"
+    }
+  }
+}

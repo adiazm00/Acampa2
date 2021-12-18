@@ -1,0 +1,140 @@
+{
+  "bungalows" : {
+    "11" : {
+      "coste_dia" : 51,
+      "disponibilidad" : "libre",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 117,
+      "id" : 12,
+      "capacidad_maxima" : 14,
+      "dimension" : "Grande"
+    },
+    "12" : {
+      "coste_dia" : 61,
+      "disponibilidad" : "ocupada",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 156,
+      "id" : 13,
+      "capacidad_maxima" : 18,
+      "dimension" : "Deluxe"
+    },
+    "13" : {
+      "coste_dia" : 58,
+      "disponibilidad" : "en reparacion",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 140,
+      "id" : 14,
+      "capacidad_maxima" : 17,
+      "dimension" : "Deluxe"
+    },
+    "14" : {
+      "coste_dia" : 61,
+      "disponibilidad" : "libre",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 151,
+      "id" : 15,
+      "capacidad_maxima" : 18,
+      "dimension" : "Deluxe"
+    },
+    "0" : {
+      "coste_dia" : 33,
+      "disponibilidad" : "en limpieza",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 56,
+      "id" : 1,
+      "capacidad_maxima" : 6,
+      "dimension" : "Pequena"
+    },
+    "1" : {
+      "coste_dia" : 30,
+      "disponibilidad" : "libre",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 49,
+      "id" : 2,
+      "capacidad_maxima" : 5,
+      "dimension" : "Pequena"
+    },
+    "2" : {
+      "coste_dia" : 33,
+      "disponibilidad" : "libre",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 57,
+      "id" : 3,
+      "capacidad_maxima" : 6,
+      "dimension" : "Pequena"
+    },
+    "3" : {
+      "coste_dia" : 37,
+      "disponibilidad" : "libre",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 62,
+      "id" : 4,
+      "capacidad_maxima" : 8,
+      "dimension" : "Mediana"
+    },
+    "4" : {
+      "coste_dia" : 37,
+      "disponibilidad" : "ocupada",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 66,
+      "id" : 5,
+      "capacidad_maxima" : 8,
+      "dimension" : "Mediana"
+    },
+    "5" : {
+      "coste_dia" : 37,
+      "disponibilidad" : "libre",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 68,
+      "id" : 6,
+      "capacidad_maxima" : 8,
+      "dimension" : "Mediana"
+    },
+    "6" : {
+      "coste_dia" : 47,
+      "disponibilidad" : "ocupada",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 102,
+      "id" : 7,
+      "capacidad_maxima" : 12,
+      "dimension" : "Autocaravana"
+    },
+    "7" : {
+      "coste_dia" : 44,
+      "disponibilidad" : "libre",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 94,
+      "id" : 8,
+      "capacidad_maxima" : 11,
+      "dimension" : "Autocaravana"
+    },
+    "8" : {
+      "coste_dia" : 44,
+      "disponibilidad" : "ocupada",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 94,
+      "id" : 9,
+      "capacidad_maxima" : 11,
+      "dimension" : "Autocaravana"
+    },
+    "9" : {
+      "coste_dia" : 54,
+      "disponibilidad" : "en limpieza",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 129,
+      "id" : 10,
+      "capacidad_maxima" : 15,
+      "dimension" : "Grande"
+    },
+    "10" : {
+      "coste_dia" : 54,
+      "disponibilidad" : "ocupada",
+      "foto" : "/presentacion/images/bungalow.jpg",
+      "m2" : 131,
+      "id" : 11,
+      "capacidad_maxima" : 15,
+      "dimension" : "Grande"
+    }
+  },
+  "numBungalows" : 15
+}
